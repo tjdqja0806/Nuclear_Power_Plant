@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2b63d88dc75bcfb44a1cafa3175d6ff9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - waterBlue: {fileID: 2100000, guid: 01daa619b417e254e946310074033b53, type: 2}
+  - waterRed: {fileID: 2100000, guid: 256397c7ed1e57c4dbd0d38e4825945c, type: 2}
+  - slider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
